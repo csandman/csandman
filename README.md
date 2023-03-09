@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 [![csandman's GitHub stats](https://github-readme-stats.vercel.app/api?username=csandman&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-Hi! My name is Chris and I'm a front end focused full stack developer specializing in React using the Next.js framework. I really love everything JavaScript, from Node.js backends to Puppeteer automations to browser extensions. I also enjoy aggregating, normalizing, and presenting data through web scraping or other means.
+Hi! My name is Chris, and I'm a front end focused full stack developer specializing in React using the Next.js framework. I really love everything JavaScript (and TypeScript), from Node.js backends to Puppeteer automations to browser extensions. I also enjoy aggregating, normalizing, and presenting data through web scraping or other means.
 
 Most of my personal projects are open source, but here are a few that are not:
 
