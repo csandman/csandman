@@ -30,3 +30,7 @@ I created Slice Map to filter out all the pizza places in NYC you don't want to 
 Do you know of any I might have missed? Fill out the submission form and once verified, it will be added to the site!
 
 <a href="https://www.producthunt.com/posts/slicemap?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-slicemap" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=167792&theme=dark" alt="SliceMap - Mapping all of the dollar slices in NYC | Product Hunt Embed" width="200px" height="43.2px" /></a>
+
+---
+
+If you would like to get in contact with me, feel free to leave an issue on my [personal GitHub repo](https://github.com/csandman/csandman/issues/new)!
